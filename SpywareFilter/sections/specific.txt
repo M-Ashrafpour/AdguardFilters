@@ -1557,6 +1557,12 @@ dreamprogs.net##td[width="88"][height="31"]
 ||zonastat.com/installer.html?param=
 ||ztat.net/*/adrum.js^
 ||ztat.net/*/webtrekk.min.js^
+||digipay.api.useinsider.com^
+||mediacdn.mediaad.org^
+||digikala.api.useinsider.com^
+||plus.sabavision.com^
+||cdn.sanjagh.com^
+||s1.mediaad.org^
 ||play.google.com/log?$empty
 !+ PLATFORM(ios, ext_safari, ext_android_cb)
 ||play.google.com/log?
