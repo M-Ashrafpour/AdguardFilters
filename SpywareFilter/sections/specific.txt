@@ -1557,7 +1557,6 @@ dreamprogs.net##td[width="88"][height="31"]
 ||zonastat.com/installer.html?param=
 ||ztat.net/*/adrum.js^
 ||ztat.net/*/webtrekk.min.js^
-||digipay.api.useinsider.com^
 ||mediacdn.mediaad.org^
 ||digikala.api.useinsider.com^
 ||plus.sabavision.com^
